@@ -1,0 +1,10 @@
+C:\Users\mohajer\source\repos\PMTD\PMTD\bin\Debug\PMTD.exe.config
+C:\Users\mohajer\source\repos\PMTD\PMTD\bin\Debug\PMTD.exe
+C:\Users\mohajer\source\repos\PMTD\PMTD\bin\Debug\PMTD.pdb
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.tbOperation.resources
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.Properties.Resources.resources
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.exe
+C:\Users\mohajer\source\repos\PMTD\PMTD\obj\Debug\PMTD.pdb

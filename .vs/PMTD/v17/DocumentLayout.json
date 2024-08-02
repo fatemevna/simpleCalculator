@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohajer\\source\\repos\\PMTD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C0F24-CB42-4817-989D-A2FEA59D2131}|PMTD\\PMTD.csproj|c:\\users\\mohajer\\source\\repos\\pmtd\\pmtd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C0F24-CB42-4817-989D-A2FEA59D2131}|PMTD\\PMTD.csproj|solutionrelative:pmtd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C0F24-CB42-4817-989D-A2FEA59D2131}|PMTD\\PMTD.csproj|c:\\users\\mohajer\\source\\repos\\pmtd\\pmtd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C55C0F24-CB42-4817-989D-A2FEA59D2131}|PMTD\\PMTD.csproj|solutionrelative:pmtd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mohajer\\source\\repos\\PMTD\\PMTD\\Form1.cs",
+              "RelativeDocumentMoniker": "PMTD\\Form1.cs",
+              "ToolTip": "C:\\Users\\mohajer\\source\\repos\\PMTD\\PMTD\\Form1.cs",
+              "RelativeToolTip": "PMTD\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:59:26.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mohajer\\source\\repos\\PMTD\\PMTD\\Form1.cs",
+              "RelativeDocumentMoniker": "PMTD\\Form1.cs",
+              "ToolTip": "C:\\Users\\mohajer\\source\\repos\\PMTD\\PMTD\\Form1.cs [Design]",
+              "RelativeToolTip": "PMTD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:49:49.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
